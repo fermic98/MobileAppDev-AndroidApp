@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">TimeBanking</string>
+    <string name="app_name_edit">TimeBanking - Edit Profile</string>
+
+    <string name="imageDescription">Userprofile image</string>
+    <string name="imageButtonDescription">Userprofile image btn</string>
+
+
+    <string name="ratingLabel">Rating</string>
+    <string name="ratingValue">-</string>
+
+    <string name="balanceLabel">Balance</string>
+    <string name="balanceValue">0h</string>
+
+    <string name="drawer_header_title">Android Studio</string>
+
+    <!-- Toolbar buttons -->
+    <string name="searchButton">Search</string>
+
+    <!-- Labels -->
+    <string name="fullNameLabel">Full Name</string>
+    <string name="nicknameLabel">Nickname</string>
+    <string name="emailLabel">Email</string>
+    <string name="locationLabel">Location</string>
+    <string name="skillsLabel">Skills</string>
+    <string name="descriptionLabel">Description</string>
+
+    <string name="fullName">Full name</string>
+    <string name="nickname">Nickname</string>
+    <string name="email">Email</string>
+    <string name="location">Location</string>
+
+    <string name="skill1">Skills</string>
+
+    <string name="description">Description</string>
+
+    <!-- Edit mode -->
+    <string name="editItem">Edit</string>
+    <string name="commitItem">Confirm</string>
+    <string name="messageItem">Contact publisher</string>
+    <string name="selectImageOption">Select an image from the phone gallery</string>
+    <string name="useCameraOption">Use the camera to take a picture</string>
+
+    <!-- section in side bar -->
+    <string name="menu_profile">Profile</string>
+    <string name="menu_advertisement">My advertisements</string>
+    <string name="menu_all_advertisement">All advertisements</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_chats">Message center</string>
+    <string name="menu_interest"> Interests </string>
+    <string name="menu_active_timeslot"> Time invested </string>
+
+    <!-- Suggestions to guide the user during navigation -->
+    <string name="skill_list_navigation"> Choose a skill that interests you</string>
+    <string name="advertisements_navigation">advertisements</string>
+
+    <!-- TimeSlotDetailsFragment labels -->
+    <string name="timeslotTitleLabel">Title</string>
+    <string name="timeslotDescriptionLabel">Description</string>
+    <string name="timeslotDateTimeLabel">Date and Time</string>
+    <string name="timeslotDurationLabel">Duration</string>
+    <string name="timeslotLocationLabel">Location</string>
+
+    <string name="title">Title</string>
+    <string name="dateTime">Date</string>
+    <string name="dateAndTime">Date and Time</string>
+    <string name="duration">Duration</string>
+    <string name="date">Date</string>
+    <string name="edit_timeSlot">Edit</string>
+    <string name="delete_timeSlot">Delete</string>
+    <string name="empty_adv_msg">No advertisements present</string>
+    <string name="empty_adv_assigned_msg">No advertisements assigned present</string>
+    <string name="empty_adv_accepted_msg">No advertisements accepted present</string>
+    <string name="empty_chats_msg">No chats present</string>
+    <string name="empty_messages_msg">No messages present</string>
+    <string name="nav_logout"><font fgcolor='#B50000'>Logout</font></string>
+    <string name="empty_skills_msg">No skills present</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="timeslotProfileLabel">Publisher</string>
+    <string name="timeslotSkillLabel">Select skill</string>
+    <string name="skill_label">Skill</string>
+    <string name="filter_button">FILTER</string>
+    <string name="all_filter_button">SORT</string>
+    <string name="publisher_button">PUBLISHER</string>
+    <string name="requester_button">REQUESTER</string>
+    <string name="no_filter">No filter</string>
+    <string name="no_sorting">No sorting</string>
+    <string name="dialog_text_filters">Type a keyword</string>
+    <string name="empty_ratings_msg">No ratings present</string>
+    <string name="empty_rating_msg">No rating received yet</string>
+
+    <!-- skills constraint Menu-->
+    <string name="title_skillsConstraint"> Wait a minute </string>
+    <string name="body_skillsConstraint"> You cannot create a new timeslot without define a set of skills in your profile. Click on the button below to add it! </string>
+    <string name="timeslot_message_title">Timeslot:</string>
+    <string name="last_message">Last message</string>
+    <string name="last_message_text">Last:</string>
+
+    <!-- Rating strings -->
+    <string name="review_given"> Your review </string>
+    <string name="review_given_to_username"> receiver </string>
+    <string name="review_received_1"> What does</string>
+    <string name="review_received_username">  </string>
+    <string name="review_received_2">\'s review </string>
+    <string name="system_message_text">Message from the system</string>
+    <string name="assigned_button">ASSIGNED</string>
+    <string name="accepted_button">ACCEPTED</string>
+    <string name="fab_contact_user">Contact</string>
+    <string name="give_a_rate_to">Give a rate to</string>
+    <string name="user">User</string>
+    <string name="advice_experience">If you want, leave also a comment about your experience:</string>
+    <string name="type_here">Type here</string>
+    <string name="send_review">Send review</string>
+
+
+</resources>
